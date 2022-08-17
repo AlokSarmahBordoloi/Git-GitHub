@@ -1,4 +1,6 @@
-# Git Commands
+
+![index](https://user-images.githubusercontent.com/106934852/185226294-d1bd3b02-9ef0-4d65-91e6-932fdb63e237.png)
+# Git & GitHub Commands
 
   ### SETUP
   - git config --global user.name
@@ -76,3 +78,4 @@ pattern*/
 - The staging area can be described as a preview of your next commit. When you create a git commit, Git takes changes that are in the staging area and make them as a new commit. You are allowed to add and remove changes from the staging area. The staging area can be considered as a real area where git stores the changes.
 ###  Repository:
 - repository is like a data structure used by VCS to store metadata for a set of files and directories. It contains the collection of the files as well as the history of changes made to those files. Repository in Git is considered as your project folder. A repository has all the project-related data
+![git](https://user-images.githubusercontent.com/106934852/185226337-db2161a2-4709-42e3-b744-74e279234ec4.png)
