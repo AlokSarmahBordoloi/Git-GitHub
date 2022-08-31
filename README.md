@@ -90,4 +90,6 @@ pattern*/
  
  ![Screenshot (221)](https://user-images.githubusercontent.com/106934852/186707028-caeb04c6-0370-4886-9de9-d6e7cec0d292.png)
 
-### 
+### git workflow
+
+![gityttt](https://user-images.githubusercontent.com/106934852/187694968-4f3d0de9-84ac-49ca-a363-486c60f945ef.jpg)
